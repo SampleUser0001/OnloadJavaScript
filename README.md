@@ -1,0 +1,2 @@
+# NginxContainerTemplate
+Nginxを起動するだけのTemplate
